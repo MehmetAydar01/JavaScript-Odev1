@@ -1,0 +1,26 @@
+img.rounded {
+    border-radius: 0.25rem !important;
+    vertical-align: middle;
+    border-style: none;
+    margin-top: 120px;
+    width: 17%;
+}
+
+.text-center {
+    text-align: center!important;
+}
+#time{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 60px !important;
+}
+.boyut{
+    font-size: 50px !important;
+    font-family: Orbitron;
+    font-weight: 400;
+}
+
+.bg-dark {
+    background-color: #343a40!important;
+    color: #e98208;
+}
